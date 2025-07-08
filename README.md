@@ -1,6 +1,8 @@
-# sumitmangela.github.io/hotel
+# krisha1205.github.io/hotel
 
 It is a front-end for a simple hotel booking site. The site is developed using HTML/CSS and jquery plugins are used to provide extra features. There are total 5 webpages of the website.
+
+live:  https://krisha1205.github.io/hotel-master/
 
 * Home Page - 
 It is a indroductionary page about the hotel itself. It contains various images of the hotel which are slided in a conware fashion using an image slider. It also contains details about the rooms and a link to rooms page. It also shows free features that hotel provides to every visitor. Some reviews that hotel recieved over the years are also represented in a conware fashion. and finally a button which links to hotel booking facility.
